@@ -2,7 +2,7 @@
 
 A multi-purpose encryption suite for **file and text encryption** using **AES encryption** and **steganography**, designed for secure data management with a user-friendly interface.
 
-![AnyGuard](src/Images/AnyGuard 1.png)
+![AnyGuard](src/Images/AnyGuard%201.png)
 
 ## Features
 - **AES Encryption**: Provides file and text encryption with industry-standard AES encryption.
@@ -15,9 +15,6 @@ A multi-purpose encryption suite for **file and text encryption** using **AES en
 - **AES Encryption**: For secure encryption of files and text.
 - **Steganography**: Hides encrypted messages within images.
 - **Java Swing**: For creating the graphical user interface.
-
-## Project Structure
-All code is contained within a single file: `Main.java`. This file contains approximately 3000 lines of code implementing all encryption, steganography, and UI functionality.
 
 ## Installation and Setup
 1. **Clone the repository**:
