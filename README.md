@@ -2,7 +2,7 @@
 
 A multi-purpose encryption suite for **file and text encryption** using **AES encryption** and **steganography**, designed for secure data management with a user-friendly interface.
 
-![AnyGuard]()
+![AnyGuard](src/Images/AnyGuard 1.png)
 
 ## Features
 - **AES Encryption**: Provides file and text encryption with industry-standard AES encryption.
