@@ -19,7 +19,7 @@ A multi-purpose encryption suite for **file and text encryption** using **AES en
 ## Installation and Setup
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/AnyGuard.git
+    git clone https://github.com/Makarand-Tighare/AnyGuard.git
     ```
 2. **Navigate to the project directory**:
     ```bash
